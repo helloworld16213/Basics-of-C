@@ -12,4 +12,15 @@ int main()
 	int b = 200;
 	b = 50;
 	printf("%d", b);
+	
+	float c;
+	c = 3.14;
+	printf("%f", c);
+	
+	char d;
+	d = 'a';
+	printf("%d", d);     //will print 97 i.e. integer value of alphabet a 
+	
+	
+	return 0;
 }
